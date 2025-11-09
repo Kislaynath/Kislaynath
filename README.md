@@ -32,7 +32,7 @@
 
 ### 🤝 Let’s Connect
 📫 Email: **ambujkishlay@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/kislaynath](https://www.linkedin.com/in/kislaynath/)  
+🔗 LinkedIn:[https://www.linkedin.com/in/kislay-tiwari-ba436838b/] 
 
 ---
 
