@@ -14,6 +14,7 @@
 ---
 
 ### 📂 Projects
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
 - 🧾 [Power BI Superstore Sales Dashboard](#)  
   Interactive dashboard analyzing regional and category-wise sales performance.  
 
